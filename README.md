@@ -16,8 +16,8 @@ I use this GitHub space to build public-safe, educational, and recruiter-readabl
 
 | Project | Status | Purpose |
 | --- | --- | --- |
-| [Security Headers Auditor](https://github.com/v-k-tsalikidis/security-headers-auditor) | Building | Python-based web security scanner with human-readable reports for HTTP security headers. |
-| NIST CSF 2.0 Quick Mapper | Planned | Small mapper that connects security activities to NIST CSF 2.0 functions/categories. |
+| [Security Headers Auditor](https://github.com/v-k-tsalikidis/security-headers-auditor) | Portfolio-ready - `v0.4.0` | Context-aware HTTP security-header assurance with versioned methodology, regression baselines, and CI-native evidence outputs. |
+| CSF Outcome Ledger | Research | Local-first decision ledger for traceable mappings between security activities, evidence metadata, and NIST CSF 2.0 outcomes. |
 | MITRE ATT&CK Technique Note Generator | Planned | Markdown analyst note generator for ATT&CK techniques, detection ideas, and defensive context. |
 | Log-to-MITRE Demo Classifier | Planned | Rule-based classifier using synthetic logs to demonstrate detection logic and ATT&CK mapping. |
 | Cyber Knowledge Graph Starter | Planned | Synthetic Neo4j cyber graph with import scripts, Cypher examples, and graph screenshots. |
@@ -44,4 +44,3 @@ They are not affiliated with, endorsed by, or connected to NATO, the European Un
 
 - LinkedIn: [linkedin.com/in/vasilios-tsalikidis-0b567ab2](https://www.linkedin.com/in/vasilios-tsalikidis-0b567ab2/)
 - GitHub: [github.com/v-k-tsalikidis](https://github.com/v-k-tsalikidis)
-
