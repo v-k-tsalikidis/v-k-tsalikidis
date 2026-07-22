@@ -16,7 +16,7 @@ I use this GitHub space to build public-safe, educational, and recruiter-readabl
 
 | Project | Status | Purpose |
 | --- | --- | --- |
-| [Security Headers Auditor](https://github.com/v-k-tsalikidis/security-headers-auditor) | Portfolio-ready - `v0.4.0` | Context-aware HTTP security-header assurance with versioned methodology, regression baselines, and CI-native evidence outputs. |
+| [Security Headers Auditor](https://github.com/v-k-tsalikidis/security-headers-auditor) | Portfolio-ready - `v0.9.0` | Context-aware HTTP security-header assurance with versioned methodology, regression baselines, and CI-native evidence outputs. |
 | CSF Outcome Ledger | Research | Local-first decision ledger for traceable mappings between security activities, evidence metadata, and NIST CSF 2.0 outcomes. |
 | MITRE ATT&CK Technique Note Generator | Planned | Markdown analyst note generator for ATT&CK techniques, detection ideas, and defensive context. |
 | Log-to-MITRE Demo Classifier | Planned | Rule-based classifier using synthetic logs to demonstrate detection logic and ATT&CK mapping. |
