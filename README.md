@@ -1,6 +1,6 @@
 # Vasileios (Basil) Tsalikidis
 
-Defense CIS and cybersecurity professional with NATO multinational INFOSEC/COMSEC experience, operational communications leadership, and a growing public portfolio around Python, Neo4j, Knowledge Graphs, MITRE ATT&CK, NIST CSF, and AI-assisted cyber threat detection.
+Defense CIS and cybersecurity professional with NATO multinational INFOSEC/COMSEC experience, operational communications leadership, CCDCOE cyber planning training, and a BSc in Informatics from the Hellenic Open University. I am building a public portfolio around Python, Neo4j, Knowledge Graphs, MITRE ATT&CK, NIST CSF, and AI-assisted cyber threat detection.
 
 I use this GitHub space to build public-safe, educational, and recruiter-readable projects that connect cyber operations, security governance, threat detection, graph-based modelling, and practical automation.
 
